@@ -1,0 +1,4 @@
+pandas==1.2.0
+mysql-connector-python==8.0.22
+psycopg2-binary==2.8.6
+cx-Oracle==8.1.0
